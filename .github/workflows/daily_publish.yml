@@ -21,7 +21,7 @@ jobs:
 
       - name: Clone Storage Repo
         run: |
-          git clone https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/YOUR_USERNAME/college-experiments-storage.git
+          git clone https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Parvagaglani/college-experiments-storage.git
 
       - name: Run Publisher
         run: python publisher.py
