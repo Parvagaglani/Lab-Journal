@@ -117,4 +117,3 @@ def generate_readme():
 
 if __name__ == "__main__":
     publish_next_file()
-```
