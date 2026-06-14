@@ -13,8 +13,9 @@ Automatically published college experiments.
 - [C172 BDS Practical 4.docx](experiments/BDS/C172 BDS Practical 4.docx)
 - [C172 BDS Practical 5.docx](experiments/BDS/C172 BDS Practical 5.docx)
 - [C172 BDS Practical 6.docx](experiments/BDS/C172 BDS Practical 6.docx)
+- [C172 BDS Practical 9.docx](experiments/BDS/C172 BDS Practical 9.docx)
 
 
 ---
 
-Total Experiments Published: 8
+Total Experiments Published: 9
