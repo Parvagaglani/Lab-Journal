@@ -15,7 +15,11 @@ Automatically published college experiments.
 - [C172 BDS Practical 6.docx](experiments/BDS/C172 BDS Practical 6.docx)
 - [C172 BDS Practical 9.docx](experiments/BDS/C172 BDS Practical 9.docx)
 
+## DAA
+
+- [DAA_C172_EXP1.docx](experiments/DAA/DAA_C172_EXP1.docx)
+
 
 ---
 
-Total Experiments Published: 9
+Total Experiments Published: 10
