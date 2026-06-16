@@ -19,8 +19,9 @@ Automatically published college experiments.
 
 - [DAA_C172_EXP1.docx](experiments/DAA/DAA_C172_EXP1.docx)
 - [DAA_C172_Exp10.docx](experiments/DAA/DAA_C172_Exp10.docx)
+- [DAA_C172_EXP2.docx](experiments/DAA/DAA_C172_EXP2.docx)
 
 
 ---
 
-Total Experiments Published: 11
+Total Experiments Published: 12
