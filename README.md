@@ -28,7 +28,11 @@ Automatically published college experiments.
 - [DAA_C172_EXP8.docx](experiments/DAA/DAA_C172_EXP8.docx)
 - [DAA_C172_Exp9.docx](experiments/DAA/DAA_C172_Exp9.docx)
 
+## DBMS
+
+- [C172 DBMS EXP1.docx](experiments/DBMS/C172 DBMS EXP1.docx)
+
 
 ---
 
-Total Experiments Published: 19
+Total Experiments Published: 20
