@@ -37,8 +37,9 @@ Automatically published college experiments.
 - [C172 DBMS EXP4.docx](experiments/DBMS/C172 DBMS EXP4.docx)
 - [C172 DBMS EXP5.docx](experiments/DBMS/C172 DBMS EXP5.docx)
 - [C172 DBMS EXP6.docx](experiments/DBMS/C172 DBMS EXP6.docx)
+- [C172 DBMS EXP7.docx](experiments/DBMS/C172 DBMS EXP7.docx)
 
 
 ---
 
-Total Experiments Published: 26
+Total Experiments Published: 27
