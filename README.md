@@ -44,8 +44,9 @@ Automatically published college experiments.
 ## DSA
 
 - [C172 Expt1- DSA.docx](experiments/DSA/C172 Expt1- DSA.docx)
+- [C172 Expt10- DSA.docx](experiments/DSA/C172 Expt10- DSA.docx)
 
 
 ---
 
-Total Experiments Published: 30
+Total Experiments Published: 31
